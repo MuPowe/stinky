@@ -32,7 +32,7 @@
                 <div class="slider-typography text-center sm-position-relative">
                     <div class="slider-text-middle-main">
                         <div class="slider-text-middle text-left sm-padding-nineteen sm-no-padding-lr xs-text-center">
-
+                              
                             <div class="col-md-6 col-sm-12 col-xs-12 sm-text-center xs-no-padding-lr">
                                 <h1 class="title-extra-large-4 md-title-extra-large-3 font-weight-100 line-height-65 sm-title-extra-large xs-title-extra-large text-dark-gray margin-eight-bottom sm-margin-four-bottom tz-text">Имаш приятел който намирисва?</h1>
                                 <div class="text-medium-gray title-small line-height-34 font-weight-100 width-100 xs-text-extra-large tz-text margin-thirteen-bottom sm-margin-six-bottom xs-margin-eleven-bottom sm-margin-nine-bottom"><p>За да не обидиш лично можеш да му изпратиш поздравителна хумористична картичка от хигиенен тип!</p></div>
@@ -62,7 +62,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12 text-center sm-margin-nine-bottom xs-margin-nineteen-bottom">
                             <div class="margin-nineteen-bottom sm-margin-thirteen-bottom xs-margin-nine-bottom"><img alt="" src="images/restaurant-service-icon-green-01.png" data-img-size="(W)76px X (H)70px"></div>
                             <h3 class="text-medium alt-font margin-three-bottom display-block sm-margin-nine-bottom xs-margin-five-bottom tz-text">RESEARCHES</h3>
-                            <div class="text-medium tz-text"> <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</p></div>
+                            <div class="text-medium tz-text"> <p> Lorem ASDKOQWDOQWDOWK the printing and typesetting industry. Lorem Ipsum has been.</p></div>
                         </div>
 
 
