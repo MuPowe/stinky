@@ -34,9 +34,8 @@
                         <div class="slider-text-middle text-left sm-padding-nineteen sm-no-padding-lr xs-text-center">
 
                             <div class="col-md-6 col-sm-12 col-xs-12 sm-text-center xs-no-padding-lr">
-                                <img src="images/logo-white-big.png" data-img-size="(W)250px X (H)61px" alt="" class="margin-fifteen-bottom sm-margin-five-bottom xs-margin-nine-bottom">
-                                <h1 class="title-extra-large-4 md-title-extra-large-3 font-weight-100 line-height-65 sm-title-extra-large xs-title-extra-large text-dark-gray margin-eight-bottom sm-margin-four-bottom tz-text">A superior way for SEO real result.</h1>
-                                <div class="text-medium-gray title-small line-height-34 font-weight-100 width-100 xs-text-extra-large tz-text margin-thirteen-bottom sm-margin-six-bottom xs-margin-eleven-bottom sm-margin-nine-bottom"><p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p></div>
+                                <h1 class="title-extra-large-4 md-title-extra-large-3 font-weight-100 line-height-65 sm-title-extra-large xs-title-extra-large text-dark-gray margin-eight-bottom sm-margin-four-bottom tz-text">Имаш приятел който намирисва?</h1>
+                                <div class="text-medium-gray title-small line-height-34 font-weight-100 width-100 xs-text-extra-large tz-text margin-thirteen-bottom sm-margin-six-bottom xs-margin-eleven-bottom sm-margin-nine-bottom"><p>За да не обидиш лично можеш да му изпратиш поздравителна хумористична картичка от хигиенен тип!</p></div>
                                 <div class="btn-dual">
                                     <a class="btn btn-medium propClone btn-border text-dark-gray no-margin-left xs-margin-nine-bottom xs-margin-lr-auto xs-float-none xs-display-block" href="index.php#blog-section1"><span class="tz-text">LEARN MORE</span><i class="fa fa-play-circle icon-extra-small tz-icon-color"></i></a>
                                     <a class="btn btn-medium propClone btn-border text-dark-gray xs-margin-lr-auto xs-float-none xs-display-block" href="index.php#"><span class="tz-text">WATCH VIDEO</span><i class="fa fa-play-circle icon-extra-small tz-icon-color"></i></a>
@@ -46,7 +45,7 @@
 
                             <div class="col-md-6 col-sm-12 col-xs-12 text-center outside-image sm-position-relative xs-no-padding-lr">
                                 <div class="outside-image-sub margin-twenty-nine-top">
-                                    <img src="images/infographic-4.png" data-img-size="(W)1420px X (H)793px" alt="" class="sm-width-100">
+                                    <img src="images/475.jpg" data-img-size="(W)1420px X (H)793px" alt="" class="sm-width-100">
                                 </div>
                             </div>
 
