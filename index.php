@@ -11,29 +11,17 @@
         <meta name="author" content="lgauthor">
 
         <link rel="shortcut icon" href="images/icon/favicon.png">
-
         <link rel="stylesheet" href="css/animate.css" />
-
         <link rel="stylesheet" href="css/bootstrap.min.css" />
-
         <link rel="stylesheet" href="css/font-awesome.css" />
-
         <link rel="stylesheet" href="css/themify-icons.css" />
-
         <link rel="stylesheet" href="css/owl.transitions.css" />
         <link rel="stylesheet" href="css/owl.carousel.css" /> 
-
         <link rel="stylesheet" href="css/magnific-popup.css" /> 
-
         <link rel="stylesheet" href="css/base.css" /> 
-
         <link rel="stylesheet" href="css/elements.css" />
-
         <link rel="stylesheet" href="css/responsive.css" />
-
         <link rel="stylesheet" type="text/css" href="css/ie.css" />
-
-
         <script src="js/html5shiv.min.js"></script>
 
     </head>
